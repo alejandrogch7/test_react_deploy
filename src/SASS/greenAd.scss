@@ -1,0 +1,31 @@
+@import "../SASS/styles.scss";
+.rectangle__container{
+    width: 100%;
+    display: flex;
+    margin-top: -9rem;
+}
+.rectangle{
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+}
+.leftSide{
+    flex: 50%;
+    z-index: 2;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 3rem;
+}
+.rightSide{
+    flex: 50%;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+    text-align: right;
+    h2{
+        font-family: $font;
+        font-weight: 300;
+        font-size: 3em;
+    }
+}
