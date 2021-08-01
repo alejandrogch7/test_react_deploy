@@ -7,7 +7,10 @@ import GreenAd from "../src/JS/greenAd"
 import "../src/SASS/greenAd.css"
 import Benefits from "./JS/benefits"
 import "../src/SASS/benefits.css"
-
+import More from "./JS/more"
+import "../src/SASS/more.css"
+import Footer from "./JS/footer"
+import "../src/SASS/footer.css"
 
 
 function App() {
@@ -17,6 +20,8 @@ function App() {
       <Cover/>
       <GreenAd/>
       <Benefits/>
+      <More/>
+      <Footer/>
     </div>
   );
 }

@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+* ::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  background: #0E0E0E;
+}
+
+.more {
+  height: 550px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  color: white;
+}
+
+.more h2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 50px;
+  font-weight: 300;
+}
+
+.more h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+}
+
+.G {
+  background: -webkit-linear-gradient(right, #00E6E3 2.73%, #00FF68 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.buttons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 50px;
+}
+
+.insta {
+  margin-right: 40px;
+  width: 60px;
+  height: 60px;
+}
+/*# sourceMappingURL=more.css.map */

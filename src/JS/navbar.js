@@ -8,12 +8,12 @@ const navbar = () => {
             <div className="container__left">
                 <img className="logo" alt="companyLogo" src={Logo}></img>
             </div>
-            <div className="container__right">
+            <nav className="container__right">
                 <a href="/"className="K">Inicio</a>
                 <a href="/"className="K">Beneficios</a>
                 <a href="/"className="K">Registro</a>
                 <a href="/"className="K"><strong>Inicia Sesión</strong></a>              
-            </div>
+            </nav>
         </div>
     )
 }

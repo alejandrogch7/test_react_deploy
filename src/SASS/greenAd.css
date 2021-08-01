@@ -9,6 +9,10 @@
   display: none;
 }
 
+body {
+  background: #0E0E0E;
+}
+
 .rectangle__container {
   width: 100%;
   display: -webkit-box;

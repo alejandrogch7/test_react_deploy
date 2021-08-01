@@ -9,6 +9,10 @@
   display: none;
 }
 
+body {
+  background: #0E0E0E;
+}
+
 .cover__container {
   width: 100%;
   height: 100vh;
