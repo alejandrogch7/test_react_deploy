@@ -9,6 +9,7 @@ const more = () => {
                 Gracias por <strong className="G"> completar el ejercicio </strong> 
             </h2>
             <h3>Te invitamos a ver más información</h3>
+            
             <div className="buttons">
                 <img className="insta"alt="instagram icon"src={Instagram}></img>
                 <img className="knowMore"alt="know more"src={KnowMore}></img>
