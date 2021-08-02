@@ -93,4 +93,31 @@ body {
   -webkit-transform: scale(1);
           transform: scale(1);
 }
+
+@media all and (max-width: 479px) {
+  .container__right {
+    display: none;
+  }
+  .logo {
+    margin-left: 1rem;
+  }
+}
+
+@media all and (min-width: 480px) and (max-width: 767px) {
+  .container__right {
+    display: none;
+  }
+  .logo {
+    margin-left: 1rem;
+  }
+}
+
+@media all and (min-width: 768px) and (max-width: 959px) {
+  .container__right {
+    display: none;
+  }
+  .logo {
+    margin-left: 1rem;
+  }
+}
 /*# sourceMappingURL=navbar.css.map */

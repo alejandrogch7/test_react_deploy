@@ -62,4 +62,17 @@ body {
   width: 60px;
   height: 60px;
 }
+
+@media all and (min-width: 480px) and (max-width: 767px) {
+  .more {
+    text-align: center;
+  }
+}
+
+@media all and (max-width: 479px) {
+  .more {
+    height: 450px;
+    text-align: center;
+  }
+}
 /*# sourceMappingURL=more.css.map */

@@ -165,4 +165,44 @@ body {
   margin-left: 31px;
   margin-top: -23px;
 }
+
+@media all and (min-width: 768px) and (max-width: 959px) {
+  .flexible_schedule {
+    display: none;
+  }
+}
+
+@media all and (min-width: 480px) and (max-width: 767px) {
+  .flexible_schedule {
+    display: none;
+  }
+  .snacks {
+    display: none;
+  }
+}
+
+@media all and (max-width: 479px) {
+  .benefits__title {
+    margin-top: -8px;
+    font-size: 11px;
+  }
+  .flexible_schedule {
+    display: none;
+  }
+  .snacks {
+    display: none;
+  }
+  .desktop {
+    margin-left: 20px;
+  }
+  .social {
+    margin-left: 22px;
+  }
+  .benefits__container {
+    height: 470px;
+  }
+  .benefits__carousel {
+    height: 200px;
+  }
+}
 /*# sourceMappingURL=benefits.css.map */

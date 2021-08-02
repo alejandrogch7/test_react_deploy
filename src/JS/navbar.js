@@ -11,7 +11,6 @@ const navbar = () => {
             <nav className="container__right">
                 <a href="/"className="K">Inicio</a>
                 <a href="/"className="K">Beneficios</a>
-                <a href="/"className="K">Registro</a>
                 <a href="/"className="K"><strong>Inicia Sesión</strong></a>              
             </nav>
         </div>
