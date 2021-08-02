@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/test_react_deploy/static/css/main.7a3aeaf9.chunk.css",
-    "main.js": "/test_react_deploy/static/js/main.53d4af96.chunk.js",
-    "main.js.map": "/test_react_deploy/static/js/main.53d4af96.chunk.js.map",
+    "main.css": "/test_react_deploy/static/css/main.dda6088d.chunk.css",
+    "main.js": "/test_react_deploy/static/js/main.d53c4f46.chunk.js",
+    "main.js.map": "/test_react_deploy/static/js/main.d53c4f46.chunk.js.map",
     "runtime-main.js": "/test_react_deploy/static/js/runtime-main.3a421433.js",
     "runtime-main.js.map": "/test_react_deploy/static/js/runtime-main.3a421433.js.map",
     "static/js/2.e5b5eb53.chunk.js": "/test_react_deploy/static/js/2.e5b5eb53.chunk.js",
     "static/js/2.e5b5eb53.chunk.js.map": "/test_react_deploy/static/js/2.e5b5eb53.chunk.js.map",
     "index.html": "/test_react_deploy/index.html",
-    "static/css/main.7a3aeaf9.chunk.css.map": "/test_react_deploy/static/css/main.7a3aeaf9.chunk.css.map",
+    "static/css/main.dda6088d.chunk.css.map": "/test_react_deploy/static/css/main.dda6088d.chunk.css.map",
     "static/js/2.e5b5eb53.chunk.js.LICENSE.txt": "/test_react_deploy/static/js/2.e5b5eb53.chunk.js.LICENSE.txt",
     "static/media/Rectangle.67b69aeb.png": "/test_react_deploy/static/media/Rectangle.67b69aeb.png",
     "static/media/computer.a98360a8.png": "/test_react_deploy/static/media/computer.a98360a8.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.3a421433.js",
     "static/js/2.e5b5eb53.chunk.js",
-    "static/css/main.7a3aeaf9.chunk.css",
-    "static/js/main.53d4af96.chunk.js"
+    "static/css/main.dda6088d.chunk.css",
+    "static/js/main.d53c4f46.chunk.js"
   ]
 }
